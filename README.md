@@ -1,3 +1,3 @@
 # LMS
-Employee Leave Management System based on PHP and MySQL
-Download this project and setup enviroment.
+Employee Leave Management System based on PHP and MySQL.
+Download this project and setup enviroment. Run the project.
